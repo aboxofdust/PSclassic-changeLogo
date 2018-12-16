@@ -3,6 +3,8 @@ This project is designed to do all of the heavy lifting of modifying the bootscr
 
 **Note:** This was written and tested on macOS. Although, python does work on Windows this specific script has not been tested
 
+# I AM NOT RESPONSIBLE FOR ANYTHING THAT MAY HAPPEN TO YOUR PLAYSTATION CLASSIC WHILE USING THIS SCRIPT
+
 ![alt text](https://github.com/aboxofdust/PSclassic-changeLogo/raw/master/Example.png)
 
 ## Things you need
